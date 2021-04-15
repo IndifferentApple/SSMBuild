@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2014eb0-7073-4721-a6ea-e616f05766e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/LeetCode/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/LeetCode/src/main/java/Heap/HeapEasy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/MicroMessage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/MicroMessage/MicroMessage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/MyWeb/MyWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/SSMBuild.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/controller/SpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/crazyit/app/GBKToUTF8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/crazyit/app/event/EmailEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/crazyit/app/event/EmailNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/crazyit/app/service/Axe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/crazyit/app/service/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/crazyit/app/service/ExampleBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/crazyit/app/service/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/crazyit/app/service/Person1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/crazyit/app/service/impl/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/crazyit/app/service/impl/GunDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/crazyit/app/service/impl/StoneAxe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/dao/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/pojo/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/service/IBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/java/com/wen/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/resources/language/message.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/resources/language/message_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/resources/mappers/BookMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/resources/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/resources/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/webapp/WEB-INF/jsp/addBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/webapp/WEB-INF/jsp/allBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/webapp/WEB-INF/jsp/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/SSMBuild/src/main/webapp/WEB-INF/jsp/updateBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/first-app-demo/model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/first-app-demo/model/src/main/java/com/imooc/firstappdemo/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/first-app-demo/persistence/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/first-app-demo/persistence/src/main/java/com/imooc/firstappdemo/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/first-app-demo/web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/first-app-demo/web/src/main/java/com/imooc/firstappdemo/FirstAppDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/first-app-demo/web/src/main/java/com/imooc/firstappdemo/config/RouterFunctionConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/first-app-demo/web/src/main/java/com/imooc/firstappdemo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/untitled1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/untitled1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/untitled1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/untitled1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/untitled1/src/main/java/org/example/hehe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/artifacts/spring_source_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/artifacts/spring_source_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_3_0_alpha5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__ch_qos_logback_logback_core_1_3_0_alpha5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__edu_washington_cs_types_checker_checker_framework_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_0_alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/spring-source/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/spring-source/spring-source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/spring-source/src/main/java/com/xiangxue/jack/bean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/spring-source/src/main/java/com/xiangxue/jack/test/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/spring-source/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxue-vip-2-real/xiangxue-vip-2-real.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxueedu-vip-2/.idea/xiangxueedu-vip-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../IdeaProjects/xiangxueedu-vip-2/spring-source/spring-source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/codes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/.idea/7.5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/DataSource/DataSource.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/byName/byName.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/byType/byType.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/collection/collection1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/collection/src/collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/composite/composite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/nestedBean/nestedBean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/requestScope/requestScope.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/scope/scope.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../7.5/value/value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instanceFactory/instanceFactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticFactory/staticFactory.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nauJDcCriuYgeoMURh9dwa00Iq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.47630057" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lee.SpringTest" />
+      <module name="staticFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2014eb0-7073-4721-a6ea-e616f05766e4" name="Default Changelist" comment="" />
+      <created>1611640448922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611640448922</updated>
+      <workItem from="1611640450101" duration="2326000" />
+      <workItem from="1611642787953" duration="101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1611640621046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611640621046" />
+    <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1611642400458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611642400458" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1611642777743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611642777743" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1611642777743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611642777743" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1611642777743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611642777743" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1611642777743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611642777743" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1611642888603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611642888603" />
+    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1611640608583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="411" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1611640608583" />
+  </component>
+</project>

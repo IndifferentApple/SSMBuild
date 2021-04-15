@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-source/spring-source.iml" filepath="$PROJECT_DIR$/spring-source/spring-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xiangxue-vip-2-real.iml" filepath="$PROJECT_DIR$/xiangxue-vip-2-real.iml" />
+    </modules>
+  </component>
+</project>

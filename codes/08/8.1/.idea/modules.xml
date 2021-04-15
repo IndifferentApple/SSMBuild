@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/8.1.iml" filepath="$PROJECT_DIR$/.idea/8.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeanFactoryPostProcessor/BeanFactoryPostProcessor.iml" filepath="$PROJECT_DIR$/BeanFactoryPostProcessor/BeanFactoryPostProcessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeanPostProcessor/BeanPostProcessor.iml" filepath="$PROJECT_DIR$/BeanPostProcessor/BeanPostProcessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PropertyOverrideConfigurer/PropertyOverrideConfigurer.iml" filepath="$PROJECT_DIR$/PropertyOverrideConfigurer/PropertyOverrideConfigurer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PropertyPlaceholderConfigurer/PropertyPlaceholderConfigurer.iml" filepath="$PROJECT_DIR$/PropertyPlaceholderConfigurer/PropertyPlaceholderConfigurer.iml" />
+    </modules>
+  </component>
+</project>

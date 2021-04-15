@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/7.5.iml" filepath="$PROJECT_DIR$/.idea/7.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataSource/DataSource.iml" filepath="$PROJECT_DIR$/DataSource/DataSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/byName/byName.iml" filepath="$PROJECT_DIR$/byName/byName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/byType/byType.iml" filepath="$PROJECT_DIR$/byType/byType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/src/collection.iml" filepath="$PROJECT_DIR$/collection/src/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection1.iml" filepath="$PROJECT_DIR$/collection/collection1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite/composite.iml" filepath="$PROJECT_DIR$/composite/composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nestedBean/nestedBean.iml" filepath="$PROJECT_DIR$/nestedBean/nestedBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/requestScope/requestScope.iml" filepath="$PROJECT_DIR$/requestScope/requestScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scope/scope.iml" filepath="$PROJECT_DIR$/scope/scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/value/value.iml" filepath="$PROJECT_DIR$/value/value.iml" />
+    </modules>
+  </component>
+</project>
